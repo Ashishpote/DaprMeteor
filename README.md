@@ -19,3 +19,4 @@
 8. [Build connected distributed applications faster.](https://www.linkedin.com/posts/ashish-pote_business-programming-technology-activity-7081940811067588608-XK42?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAdr_AkBve_FbKsYPBAcGYLnkF3mNXPyh2Y)
 
 ## Presentation given in EY.
+1. [Dapr 101](https://github.com/Ashishpote/DaprMeteor/blob/main/DAPR%20-%20101.pptx)
